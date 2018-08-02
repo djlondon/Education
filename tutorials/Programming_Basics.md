@@ -86,7 +86,7 @@ The basic types you will need to know are: integers, floats, strings, characters
 
 ## Files
 
-Files are beautifully simple. There is are only two kinds of file, a file and a *directory*. A directory is a file that can hold other files. A file is always at its core just a bunch of numbers. File extensions even, have no meaning to the computer, they're just a convention that make our lives easier. So when you're operating system 'knows' to open a `.pdf` in a pdf reader it just has some special program for that. If you remove the `.pdf`, the file will still open in a pdf reader (unless its being too smart).
+Files are beautifully simple. There are only two kinds of file, a file and a *directory*. A directory is a file that can hold other files. A file is always at its core just a bunch of numbers. File extensions even, have no meaning to the computer, they're just a convention that make our lives easier. So when you're operating system 'knows' to open a `.pdf` in a pdf reader it just has some special program for that. If you remove the `.pdf`, the file will still open in a pdf reader (unless its being too smart).
 
 We write our programs in files, just like you write your diary on paper. 
 
