@@ -123,7 +123,7 @@ and "1 + 4 = 3 AND 2 + 4 = 5" is false.
 
 So OR works like:
 
-|`|`  |True |False|
+|\|  |True |False|
 |:---:|:---:|:---:|
 |True |True |True |
 |False|True |False|
