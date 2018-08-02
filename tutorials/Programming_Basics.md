@@ -80,6 +80,7 @@ The basic types you will need to know are: integers, floats, strings, characters
 >- Arrays<sup>2</sup> (lists of common type) - {1, 2, 3, 4}
 
 1 - number of decimal places is implementation dependent
+
 2 - syntax differs
 
 ## Files
