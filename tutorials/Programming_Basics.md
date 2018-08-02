@@ -59,7 +59,7 @@ These store data. Just like how a strongbox stores your most treasured (or forbi
 
 These do things to variables. Often these involves calculations.
 
-### Type
+### Types
 
 This can get technical very quickly, there's a whole theory for this: type theory. But really its simple. The data we store in our variables come in different flavours. Types categorise data based on how the computer handles the data.
 
@@ -67,8 +67,7 @@ Numbers have a few different types. Can you guess a few?
 Well, yes you've got primes, odds, evens etc. but a computer doesn't need to handle them differently. But it does with integers (whole numbers) and floats/doubles (decimal numbers).
 
 A good analogy for this is food. There are five different types of food, called groups: grains, protein, dairy, vegetables and fruit. Why do we categorise them? 
-"*Foods are grouped together because they provide similar amounts of the 
-key nutrients of that food group.*" 
+"*Foods are grouped together because they provide similar amounts of the key nutrients of that food group.*" 
 ([EatForHealth.gov](https://www.eatforhealth.gov.au/food-essentials/five-food-groups))
 
 And types are grouped based on how the computer stores and handles them.
@@ -81,7 +80,6 @@ The basic types you will need to know are: integers, floats, strings, characters
 >- Arrays<sup>2</sup> (lists of common type) - {1, 2, 3, 4}
 
 1 - number of decimal places is implementation dependent
-
 2 - syntax differs
 
 ## Files
@@ -108,10 +106,10 @@ And two false statements ANDED is clearly a false statement:
 
 So AND works like:
 
-| `&` |True |False|
+| &   |True |False|
 |:---:|:---:|:---:|
 |True |True |False|
-|False|False|True |
+|False|False|False|
 
 We also have OR (commonly written | or v), two statements ORed together is true as long as
 at least one of them is true. This can be confusing because in English
@@ -119,7 +117,7 @@ when we say or, we usually mean that only one of them is true.
 
 Hence, 
 "1 + 2 = 3 OR 1 + 4 = 5" is true, "1 + 2 = 3 OR 1 + 2 = 5" is also true,
-and "1 + 4 = 3 AND 2 + 4 = 5" is false.
+and "1 + 4 = 3 OR 2 + 4 = 5" is false.
 
 So OR works like:
 
