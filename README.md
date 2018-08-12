@@ -3,4 +3,4 @@ Tutorials, notes and information I have curated to help me work. You may also fi
 
 ## Tutorials
 
->- [Floating Point Woes](https://github.com/djlondon/Education/blob/master/tutorials/FP-Woes.html)
+>- [Floating Point Woes](http://htmlpreview.github.io/?https://github.com/djlondon/Education/blob/master/tutorials/FP-Woes.html)
