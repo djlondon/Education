@@ -55,7 +55,4 @@ The *rule of thumb* is for:
 
 ------
 
- 
-
-
 
