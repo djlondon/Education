@@ -10,7 +10,7 @@ In base 10, the **units** - the amount each digit is multiplied by - comes in po
 | ------ | ------ | ----- | ---- | ---- | ---- | -------------- | --------------- | ---------------- |
 | Number | 5      | 3     | 2    | 0    | .    | 2              | 3               | 4                |
 |        | $*$    | $*$   | $*$  | $*$  |      | $*$            | $*$             | $*$              |
-| +      | 5000   | 300   | 20   | 0    | .    | 0.2            | 0.03            | 0.04             |
+| +      | 5000   | 300   | 20   | 0    | .    | 0.2            | 0.03            | 0.004            |
 
 So base 10 just means that each digit represents a power of 10, and the power of 10 which it represents is given by its value before or after the decimal point. Because of this, the maximum value of a single digit is 9 (10-1).
 
