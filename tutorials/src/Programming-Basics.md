@@ -31,11 +31,9 @@ Syntax is a fun one that you will hear all the time for two reasons.
 
 ### Functions (Methods)
 
-Functions (also called methods
+Functions (also called methods[^1]) do things with variables. Often these involves calculations. *Calling* a function means running it with some input (arguments) if it needs any. A function *declaration* states what the function does, and a function *definition* what the function should *return* and its *parameters*.
 
 [^1]: there is a slight technical difference between the two, methods are functions used by a class in OOP
-
-) do things with variables. Often these involves calculations. *Calling* a function means running it with some input (arguments) if it needs any. A function *declaration* states what the function does, and a function *definition* what the function should *return* and its *parameters*.
 
 **Parameters vs. Arguments**
 
