@@ -3,13 +3,13 @@
 This repository includes tutorials, notes and information I have curated to help me work. You may also find them useful.
 
 
-## CTCI
+## [CTCI](https://github.com/djlondon/Education/tree/master/CTCI)
 
-This folders contains my working solutions to problems from *Cracking the Coding Interview*. This is mostly done in Python for speed of development, bit I have opted for Java for bit manipulation.
+This folder contains my working solutions to problems from *Cracking the Coding Interview*. This is mostly done in Python for speed of development, bit I have opted for Java for bit manipulation.
 
 I may port them to Java or C++ in the future.
 
-## Tutorials
+## [Tutorials](https://github.com/djlondon/Education/tree/master/tutorials)
 
 Best viewed in PDF format. These include.
 
